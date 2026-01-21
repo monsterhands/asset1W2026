@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 3dcc9ca5efe78da4e896ec4b7d1eb93c
+guid: 880185b4efcb6da489affb27d8f2c138
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8008053422439802087
-    second: right contact1_0
+      213: -1707750957773298341
+    second: left down2_0
   - first:
-      213: 1461775490608752572
-    second: right contact1_1
+      213: 5279086563399547072
+    second: left down2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: right contact1_0
+      name: left down2_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 4
-        width: 46
-        height: 59
+        x: 6
+        y: 45
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7e420e2c822522f60800000000000000
-      internalID: 8008053422439802087
+      spriteID: b55e61d4d89dc48e0800000000000000
+      internalID: -1707750957773298341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: right contact1_1
+      name: left down2_1
       rect:
         serializedVersion: 2
-        x: 46
-        y: 48
-        width: 8
-        height: 13
+        x: 9
+        y: 4
+        width: 42
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb76b1b5015494410800000000000000
-      internalID: 1461775490608752572
+      spriteID: 0c8b7f57245134940800000000000000
+      internalID: 5279086563399547072
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      right contact1_0: 8008053422439802087
-      right contact1_1: 1461775490608752572
+      left down2_0: -1707750957773298341
+      left down2_1: 5279086563399547072
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
