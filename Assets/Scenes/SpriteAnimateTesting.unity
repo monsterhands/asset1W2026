@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16229c4829dcaa042985c51e9e797205, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FollowSpeed: 2
+  FollowSpeed: 4
   target: {fileID: 1391240052}
 --- !u!1 &489905217
 GameObject:
@@ -2797,7 +2797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cae5bf7fdebb64149959158a34e1bc63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
+  moveSpeed: 1.25
 --- !u!95 &1391240054
 Animator:
   serializedVersion: 7
