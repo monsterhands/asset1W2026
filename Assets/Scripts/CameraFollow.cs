@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    public float FollowSpeed = 2f;
-    //public float yOffset =1f;
+    public float FollowSpeed;
+    
     public Transform target;
 
 
